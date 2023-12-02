@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\bin\Debug\net7.0\P03-AntiqueBookstore.exe
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\bin\Debug\net7.0\P03-AntiqueBookstore.deps.json
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\bin\Debug\net7.0\P03-AntiqueBookstore.runtimeconfig.json
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\bin\Debug\net7.0\P03-AntiqueBookstore.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\bin\Debug\net7.0\P03-AntiqueBookstore.pdb
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\P03-AntiqueBookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\P03-AntiqueBookstore.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\P03-AntiqueBookstore.AssemblyInfo.cs
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\P03-AntiqueBookstore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\P03-AntiqueBookstore.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\refint\P03-AntiqueBookstore.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\P03-AntiqueBookstore.pdb
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\P03-AntiqueBookstore.genruntimeconfig.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P03-AntiqueBookstore\obj\Debug\net7.0\ref\P03-AntiqueBookstore.dll

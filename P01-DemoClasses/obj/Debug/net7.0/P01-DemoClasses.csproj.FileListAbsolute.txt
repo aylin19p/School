@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\bin\Debug\net7.0\P01-DemoClasses.exe
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\bin\Debug\net7.0\P01-DemoClasses.deps.json
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\bin\Debug\net7.0\P01-DemoClasses.runtimeconfig.json
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\bin\Debug\net7.0\P01-DemoClasses.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\bin\Debug\net7.0\P01-DemoClasses.pdb
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\P01-DemoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\P01-DemoClasses.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\P01-DemoClasses.AssemblyInfo.cs
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\P01-DemoClasses.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\P01-DemoClasses.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\refint\P01-DemoClasses.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\P01-DemoClasses.pdb
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\P01-DemoClasses.genruntimeconfig.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P01-DemoClasses\obj\Debug\net7.0\ref\P01-DemoClasses.dll
