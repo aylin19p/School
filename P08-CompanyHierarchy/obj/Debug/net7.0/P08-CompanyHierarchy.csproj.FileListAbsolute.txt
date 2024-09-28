@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\bin\Debug\net7.0\P08-CompanyHierarchy.exe
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\bin\Debug\net7.0\P08-CompanyHierarchy.deps.json
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\bin\Debug\net7.0\P08-CompanyHierarchy.runtimeconfig.json
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\bin\Debug\net7.0\P08-CompanyHierarchy.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\bin\Debug\net7.0\P08-CompanyHierarchy.pdb
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\P08-CompanyHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\P08-CompanyHierarchy.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\P08-CompanyHierarchy.AssemblyInfo.cs
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\P08-CompanyHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\P08-CompanyHierarchy.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\refint\P08-CompanyHierarchy.dll
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\P08-CompanyHierarchy.pdb
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\P08-CompanyHierarchy.genruntimeconfig.cache
+C:\Users\HP\Documents\aylin\school\S03-Classes\P08-CompanyHierarchy\obj\Debug\net7.0\ref\P08-CompanyHierarchy.dll

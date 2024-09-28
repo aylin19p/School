@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj": {}
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj": {
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj",
         "projectName": "P01-DemoClasses",
-        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P01-DemoClasses\\P01-DemoClasses.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P01-DemoClasses\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P01-DemoClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

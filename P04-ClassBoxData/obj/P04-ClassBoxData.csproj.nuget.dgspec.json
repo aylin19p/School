@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj": {}
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj": {
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj",
         "projectName": "P04-ClassBoxData",
-        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P04-ClassBoxData\\P04-ClassBoxData.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\S03-Classes\\P04-ClassBoxData\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P04-ClassBoxData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
