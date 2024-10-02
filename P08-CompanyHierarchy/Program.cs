@@ -34,7 +34,6 @@
             foreach (var employee in employees)
             {
                 Console.WriteLine(employee);
-
                 Console.WriteLine($"Receives a salary {employee.GetSalary}.");
             }
         }

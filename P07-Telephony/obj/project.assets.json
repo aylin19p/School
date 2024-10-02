@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P07-Telephony\\P07-Telephony.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P07-Telephony\\P07-Telephony.csproj",
       "projectName": "P07-Telephony",
-      "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P07-Telephony\\P07-Telephony.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P07-Telephony\\P07-Telephony.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P07-Telephony\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P07-Telephony\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj": {}
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj": {
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj",
         "projectName": "P03-AntiqueBookstore",
-        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P03-AntiqueBookstore\\P03-AntiqueBookstore.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P03-AntiqueBookstore\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P03-AntiqueBookstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

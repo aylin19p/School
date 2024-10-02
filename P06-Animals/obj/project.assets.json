@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P06-Animals\\P06-Animals.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P06-Animals\\P06-Animals.csproj",
       "projectName": "P06-Animals",
-      "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P06-Animals\\P06-Animals.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P06-Animals\\P06-Animals.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P06-Animals\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P06-Animals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

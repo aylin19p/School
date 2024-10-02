@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj": {}
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj": {
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj",
         "projectName": "P05-Zoo",
-        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P05-Zoo\\P05-Zoo.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P05-Zoo\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P05-Zoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

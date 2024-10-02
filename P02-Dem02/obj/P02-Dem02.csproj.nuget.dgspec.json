@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj": {}
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj": {
+    "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj",
         "projectName": "P02-Dem02",
-        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P02-Dem02\\P02-Dem02.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\S03-Classes\\P02-Dem02\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\aylin\\school\\11 class\\M01\\School\\S03-Classes\\P02-Dem02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
